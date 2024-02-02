@@ -1,0 +1,19 @@
+{
+  "name": "peli-j-s",
+  "version": "1.0.0",
+  "description": "Curso de consumo de API REST con JS",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luchyta1982/peli-j-s.git"
+  },
+  "author": "luchyprogram",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luchyta1982/peli-j-s/issues"
+  },
+  "homepage": "https://github.com/luchyta1982/peli-j-s#readme"
+}
